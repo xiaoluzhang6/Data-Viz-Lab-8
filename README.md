@@ -26,7 +26,7 @@ Chart 1: For this chart, I used the same ranking data from lab 6. This is a bett
 Chart 2: Similarily, the viewer will see that the MSIS program at SCU not only has the most number of ranked skills on Linkedin, but also the highest coverage as well. After the chart gets their attention, they can look further down in the table for exact skills and their ranking.<br><br>
 
 Chart 3: This chart also uses a quadrant chart to convey two sets of information: number of capstone project options offered, and the nature of these options. The viewer will understand by just reading the title and seeing the relevant positions of the shapes that SCU not only offer alot more options to their students, but these options will also teach them practical application in the real world. The used of combined information in all three charts helps the audience to understand (1) The MSIS program at SCU is ranked higher than similar programs in the area, (2) it offers a much more comprehensive and practical education, (3)and it also takes a practical approach to ensure graduates will be able to apply what they learned. All of this information can be conveyed to the audience within couple of seconds whithout the viewer having to digest a lot of reading <br>
------------------------------------------------------------------------------------------------------------------------------
+
 ## Changes After Class<br>
 Final Version:<br>
 <img width="1154" alt="screen shot 2017-11-11 at 11 24 59 am" src="https://user-images.githubusercontent.com/32026039/32692827-f8689bca-c6d3-11e7-8cc8-2172a92fa705.png"><br>
